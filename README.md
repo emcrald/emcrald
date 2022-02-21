@@ -1,7 +1,6 @@
 
 <p align='center'>
-Hey I'm Emerald!
-What I use
+Hey I'm Emerald!\nMy Projects will consist of:
 </p>
 
 <p align='center'>
