@@ -1,23 +1,6 @@
 
 ### Hey I'm Emerald 👋
 
-
-<p align='center'>
-    <a href="https://lostanddead.co.uk"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=Lostanddead.co.uk&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwww.lostanddead.co.uk%2F"></a>
-</p>
-
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=lostanddead&show_icons=true&count_private=true&theme=dark" width="350">
-</p>
-
-## I'm a Student and Junior Software Developer
-
-- I am a student currently in college taking an IT course
-- I work as a Junior Software Developer
-- I have written COM port protocols and are working on a few other things
-- Mostly code to mess around, nothing is super serious
-- Mostly write discord bots using js
-
 <br />
 
 ### Stuff I Know How To Use:
