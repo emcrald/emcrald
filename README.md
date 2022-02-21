@@ -1,10 +1,10 @@
 
 <p align='center'>
-### Hey I'm Emerald 👋
-</p>
+Hey I'm Emerald 👋
+
 
 ### What I use
-
+</p>
 <p align='center'>
     <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white">
     <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
