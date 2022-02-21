@@ -1,6 +1,9 @@
 
 <p align='center'>
-Hey I'm Emerald!\nMy Projects will consist of:
+Hey I'm Emerald!
+</p>
+<p align='center'>
+My Projects will consist of:
 </p>
 
 <p align='center'>
