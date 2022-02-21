@@ -1,9 +1,9 @@
 
+<p align='center'>
 ### Hey I'm Emerald 👋
+</p>
 
-<br />
-
-### Stuff I Know How To Use:
+### What I use
 
 <p align='center'>
     <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white">
