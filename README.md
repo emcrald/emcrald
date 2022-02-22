@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+To+Emeralds+Profile&center=true&width=500&height=50"></a>
 </p>
+<hr>
 <h1 align="center">
   <b>🛠️My Projects will consist of</b>
 </h1>
@@ -14,6 +15,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </p>
+<hr>
 <h1 align="center">
   <b>🛠️Made With</b>
 </h1>
