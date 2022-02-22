@@ -39,3 +39,13 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
 </p>
+<Br>
+<h1>About Me!</h1>
+  
+- My name is Emerald
+- I'm a grade 9 Student
+- Currently learning C++
+- Currently studying Forensic Science
+- Pronouns: Any
+<hr>
+<Br>
