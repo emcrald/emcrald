@@ -49,7 +49,6 @@
 - Pronouns: Any
 <hr>
 <hr>
-<Br>
 <h1 align="center">Socials</h1>
 <Br>
 <p align="center">
