@@ -48,15 +48,13 @@
 - Currently studying Forensic Science
 - Pronouns: Any
 <hr>
-</p>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Socials
+<h1>💻Socials</h1>
 <p align="center">
 <Br>
 <p align="center">
 	<a href="https://github.com/Emerald-cmd"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/emeraldcmd/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </a>
-</p>
 <Br>
 <hr>
 <Br>
