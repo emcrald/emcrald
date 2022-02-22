@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+To+Emeralds+Profile&center=true&width=500&height=50"></a>
 </p>
 <h1 align="center">
-  <b>My Projects will consist of:</b>
+  <b>🛠️My Projects will consist of:</b>
 </h1>
 
 <p align="center"> 
@@ -40,7 +40,7 @@
 </p>
 <hr>
 <Br>
-<h1>About Me!</h1>
+<h1>👀About Me!</h1>
   
 - My name is Emerald
 - I'm a grade 9 Student
@@ -48,7 +48,8 @@
 - Currently studying Forensic Science
 - Pronouns: Any
 <hr>
-<h1 align="center">Socials</h1>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Socials
+<p align="center">
 <Br>
 <p align="center">
 	<a href="https://github.com/Emerald-cmd"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -57,7 +58,7 @@
 <Br>
 <hr>
 <Br>
-<h1>GitHub Stats</h1>
+<h1>📊GitHub Stats</h1>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Emerald's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Emerald-cmd&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
