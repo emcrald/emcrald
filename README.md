@@ -63,7 +63,7 @@
 <h1>GitHub Stats</h1>
 <Br>
   
-[![Emerald's github stats](https://github-readme-stats.vercel.app/api?username=Emerald-cmd&show_icons=true&theme=merko)](https://github.com/Aryagm/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
+[![Emerald's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emerald-cmd)](https://github.com/anuraghazra/github-readme-stats)
 
  
 <Br>
