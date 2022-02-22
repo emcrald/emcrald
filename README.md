@@ -64,6 +64,7 @@
 <Br>
   
 ![Emerald's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emerald-cmd&show_icons=true&theme=dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerald-cmd)](https://github.com/anuraghazra/github-readme-stats)
 
  
 <Br>
