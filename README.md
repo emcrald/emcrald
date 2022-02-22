@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+To+Emeralds+Profile&center=true&width=500&height=50"></a>
 </p>
-
 <h1 align="center">
   <b>My Projects will consist of:</b>
 </h1>
@@ -47,7 +46,6 @@
 - Currently learning C++
 - Currently studying Forensic Science
 - Pronouns: Any
-<hr>
 <hr>
 <h1 align="center">Socials</h1>
 <Br>
