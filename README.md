@@ -48,7 +48,6 @@
 - Currently studying Forensic Science
 - Pronouns: Any
 <hr>
-<Br>
 <hr>
 <Br>
 <h1 align="center">Socials</h1>
@@ -62,9 +61,12 @@
 <Br>
 <h1>GitHub Stats</h1>
 <Br>
-  
-![Emerald's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emerald-cmd&show_icons=true&theme=dark)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerald-cmd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Emerald-cmd&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Emerald-cmd&repo=convoychat" />
+</a>
 
  
 <Br>
