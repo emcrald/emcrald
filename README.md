@@ -3,9 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+To+My+Profile&center=true&width=500&height=50"></a>
 </p>
 
-<p align='center'>
-My Projects will consist of:
-</p>
+<h1 align="center">
+  <b>My Projects will consist of:</b>
+</h1>
 
 <p align="center"> 
   &emsp; 
