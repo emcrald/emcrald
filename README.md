@@ -25,7 +25,7 @@
 </p>
 <hr>
 <Br>
-<b>👀About Me!</b>
+<h1>👀About Me!</h1>
 
 - My name is Emerald
 - I'm a student in grade 9
