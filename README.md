@@ -25,13 +25,16 @@
 </p>
 <hr>
 <Br>
-<h1>👀About Me!</h1>
-  
+<h1 align="center">
+<b>👀About Me!</b>
+</h1>
+<p align="center"> 
 - My name is Emerald
 - I'm a student in grade 9
 - Currently learning C++
 - Currently studying Forensic Science
 - Pronouns: Any
+</p>
 <hr>
 <h1>💻Socials</h1>
 <p align="center">
