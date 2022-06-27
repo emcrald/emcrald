@@ -33,7 +33,6 @@
 - Grade 9 Student
 - Currently learning C++
 - Currently studying Forensic Science
-- Pronouns: Any
 <hr>
 <h1>💻Socials</h1>
 <p align="center">
