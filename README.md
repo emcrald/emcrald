@@ -30,7 +30,7 @@
 <h1>👀About Me!</h1>
 
 - My name is Emerald
-- I'm a student in grade 9
+- Grade 9 Student
 - Currently learning C++
 - Currently studying Forensic Science
 - Pronouns: Any
