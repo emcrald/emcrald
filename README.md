@@ -1,5 +1,3 @@
-
-[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/feoj.svg)](https://betteruptime.com/?utm_source=status_badge)
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=02D5F7&background=19FF5F00&center=true&vCenter=true&lines=Welcome+To+Emerald's+Profile"></a>
 </p>
