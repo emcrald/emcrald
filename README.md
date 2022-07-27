@@ -55,3 +55,10 @@
  
 <Br>
 <hr>
+<h1>📝Websites</h1>
+  <br/>
+- revinal.xyz
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/feoj.svg)](https://betteruptime.com/?utm_source=status_badge)
+
+- emeraldbots.xyz
+  <br/>
