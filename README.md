@@ -30,7 +30,7 @@
 - My name is Emerald
 - Grade 9 Student
 - Currently learning C++
-- Currently studying Forensic Science
+- Currently studying Autonomous Technologies
 <hr>
 <h1>💻Socials</h1>
 <p align="center">
