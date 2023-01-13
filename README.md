@@ -28,7 +28,7 @@
 <h1>👀About Me!</h1>
 
 - My name is Emerald
-- Grade 9 Student
+- Grade 10 Student
 - Currently learning C++
 - Currently studying Autonomous Technologies
 <hr>
