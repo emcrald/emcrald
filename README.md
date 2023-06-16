@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Raspberry%20Pi-E34F26?style=for-the-badge&logo=raspberrypi&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
 <hr>
 <Br>
