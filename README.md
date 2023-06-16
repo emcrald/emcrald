@@ -51,9 +51,9 @@
 <h1>📊GitHub Stats</h1>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Emerald's Github Stats" src="github-readme-stats-git-master-emerald-cmd.vercel.app/api?username=Emerald-cmd&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
-<br/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emerald-cmd&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Emerald-cmd" height="192px"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=Emerald-cmd&show_icons=true&theme=dark&count-private=true" alt="Emerald-cmd" height="192px"/>
+  <br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emerald-cmd&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark&count-private=true" alt="Emerald-cmd" height="192px"/>
   <br/>
  
 <Br>
