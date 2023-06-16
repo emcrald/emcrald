@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=02D5F7&background=19FF5F00&center=true&vCenter=true&lines=Welcome+To+Emerald's+Profile"></a>
 </p>
+
 <hr>
 <h1 align="center">
   <b>🛠️My Projects will consist of</b>
@@ -28,16 +29,21 @@
 <h1>👀About Me!</h1>
 
 - My name is Emerald
-- Grade 10 Student
+- Electronics Engineering Student
 - Currently learning C++
 - Currently studying Autonomous Technologies
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-4/620549523697172511.png" alt="Discord" /> </p>
 <hr>
+
 <h1>💻Socials</h1>
 <p align="center">
 <Br>
 <p align="center">
-  <a href="mailto:jaxon@emeraldbots.xyz"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:emerald@emeraldbots.xyz"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://twitter.com/emcraldtwt"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://discord.com/users/620549523697172511"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://steamcommunity.com/id/-emerald-/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
+  
 <Br>
 <hr>
 <Br>
