@@ -51,9 +51,9 @@
 <h1>📊GitHub Stats</h1>
   <br/>
   <p align="center">
-   <img src="https://github-readme-stats-git-master-emerald-cmd.vercel.app/api?username=Emerald-CMD&include_all_commits=true&count_private=true&theme=dark" alt="Emerald-cmd" height="192px"/>
+   <img src="https://github-readme-stats-git-master-emerald-cmd.vercel.app/api?username=emcrald&include_all_commits=true&count_private=true&theme=dark" alt="emcrald" height="192px"/>
   <br/>
-   <img src="https://github-readme-stats-git-master-emerald-cmd.vercel.app/api/top-langs/?username=Emerald-CMD&count_private=true&layout=compact&theme=dark&langs_count=6" alt="Emerald-cmd" height="192px"/>
+   <img src="https://github-readme-stats-git-master-emerald-cmd.vercel.app/api/top-langs/?username=emcrald&count_private=true&layout=compact&theme=dark&langs_count=6" alt="emcrald" height="192px"/>
   <br/>
  
 <Br>
