@@ -31,7 +31,7 @@
 
 - My name is Emerald
 - Electronics Engineering Student
-- Currently learning C++
+- Currently studying Cybersecurity & Pentesting
 - Currently studying Autonomous Technologies
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-4/620549523697172511.png" alt="Discord" /> </p>
 <hr>
